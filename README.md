@@ -1,4 +1,8 @@
 # Starbucks Sales Analysis
+
+![starbucks-brightness](https://github.com/user-attachments/assets/06ee11b5-5bf4-4e5f-97b3-3ab08c15539d)
+
+
 ## **Overview :**
 This Dashboard shows the performance of Starbucks stores over past six months, by analysing the 
 - Revenue
