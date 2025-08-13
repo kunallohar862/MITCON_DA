@@ -13,11 +13,14 @@ This Dashboard shows the performance of Starbucks stores over past six months, b
 ## **Tools Used :**
 **MS-Excel**
 
-![excel logo](https://github.com/user-attachments/assets/6368753f-cfb1-4b4a-8439-b60d0df51b45)
+
+![ExcelLogo](https://github.com/user-attachments/assets/dbedceba-4ff8-4760-894c-c4294cc9ec8a)
 
 
 ## **Dashboard :**
-<img width="1351" height="743" alt="Starbucks_Sales_Dashboard" src="https://github.com/user-attachments/assets/f5c2d50a-8449-49b4-adb7-0d31ba79eb9b" />
+
+<img width="1505" height="802" alt="StarbucksSalesDashboard" src="https://github.com/user-attachments/assets/ece22cc5-80e7-4296-8831-6a0150907ca8" />
+
 
 ## **Insights :**
 By studying the data we have identified that:
